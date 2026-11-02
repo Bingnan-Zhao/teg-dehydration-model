@@ -1,0 +1,6 @@
+Gas 1.42 million Sm3/d at 7000 kPa, 40 C; 4 stages; circulation 25 L TEG/kg water
+Wet gas 1073 mg/Sm3 -> dry gas 52 mg/Sm3 (spec 112): MEETS SPEC
+Lean TEG 99.15 wt% (reboiler 200 C, 101 kPa), rich TEG 94.60 wt%
+TEG circulation 1704 kg/h; TEG losses 13.0 kg/d
+Duties kW: rich preheat E-100 23, lean/rich cold side E-101 104, reboiler E-102 93, lean/rich hot side E-103 117, lean cooler E-104 45, reflux condenser E-105 20; pump 4.4 kW
+Flowsheets saved: flowsheets/05_contactor.dwxmz, flowsheets/05_regeneration.dwxmz

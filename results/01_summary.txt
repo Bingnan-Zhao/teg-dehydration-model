@@ -1,0 +1,8 @@
+Contactor inlet 40 C, 7000 kPa abs, gas {'Methane': 0.97, 'Nitrogen': 0.015, 'Carbon dioxide': 0.01, 'Ethane': 0.005}
+Bukacek: 1070 mg/Sm3; spec 112 mg/Sm3
+Mean |deviation| from Bukacek over all points:
+  Peng-Robinson  base     918 mg/Sm3 (-14.2 %), mean |dev| 14.9 %, max |dev| 20.2 %
+  SRK            base     823 mg/Sm3 (-23.0 %), mean |dev| 24.0 %, max |dev| 30.8 %
+  PRSV2-VL       base    1708 mg/Sm3 (+59.6 %), mean |dev| 371.2 %, max |dev| 4495.2 %
+Best match: Peng-Robinson
+Water to remove at base case: about 958 mg/Sm3 (90 % of inlet water)

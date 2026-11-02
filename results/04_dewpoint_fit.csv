@@ -1,0 +1,9 @@
+teg_wt_pct,T_contactor_K,T_dew_K,source,Td_default,Td_regen_kij,Td_contactor_kij
+90.0,283.15,267.15,Table 2 reported,283.11,283.1,269.59
+95.0,303.15,278.15,Table 2 reported,303.12,297.36,278.74
+97.0,318.15,284.65,Table 2 reported,328.88,302.22,283.62
+98.0,333.15,290.65,Table 2 reported,332.69,306.77,288.56
+99.0,283.15,243.15,Table 2 reported,283.1,261.7,244.25
+99.9,303.15,232.65,Table 2 reported,266.09,246.07,231.61
+98.0,311.15,272.4,Example (correlation),317.26,291.1,272.89
+99.0,311.15,264.2,Example (correlation),305.84,281.07,263.73

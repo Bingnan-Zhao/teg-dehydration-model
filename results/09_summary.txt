@@ -1,0 +1,5 @@
+FMU run (CoSimulation): 1561 points over 26 h
+dryGasWater  max |FMU - twin| = 31.7
+T_reboiler   max |FMU - twin| = 0.00239
+leanTEG      max |FMU - twin| = 0.000353
+surgeLevel   max |FMU - twin| = 6.55e-06

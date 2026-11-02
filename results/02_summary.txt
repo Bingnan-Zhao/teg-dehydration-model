@@ -1,0 +1,3 @@
+Tuned Peng-Robinson methane-water kij = 0.3284 (DWSIM default 0.5)
+Mean |deviation| from Bukacek: default 14.9 %, tuned 3.1 % (max 8.6 %)
+Base case 40 C, 7000 kPa: Bukacek 1070, tuned PR 1073 mg/Sm3

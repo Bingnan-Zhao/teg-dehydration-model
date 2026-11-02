@@ -1,0 +1,6 @@
+{
+  "kij_methane_water": 0.3284,
+  "package": "Peng-Robinson",
+  "fitted_to": "Bukacek (1955), 20-50 C at 7000 kPa and 3-10 MPa at 40 C",
+  "rms_rel_dev_pct": 4.13
+}

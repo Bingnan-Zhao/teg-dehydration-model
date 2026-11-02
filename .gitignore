@@ -1,0 +1,37 @@
+# local .NET runtime copied from DWSIM (large, machine specific)
+.dnroot/
+__pycache__/
+*.pyc
+# files waiting for deletion, private references (papers are copyrighted)
+_to_delete/
+references/
+*.pdf
+# connectivity test output
+results/test_dwsim.txt
+# leftovers from the earlier single-flowsheet version of step 5
+results/04_flowsheet.png
+results/04_streams.csv
+flowsheets/04_teg_unit.dwxmz
+# Dymola build output
+modelica/_export.mos
+modelica/*.mat
+modelica/*.log
+modelica/dsin.txt
+modelica/dsfinal.txt
+modelica/dslog.txt
+modelica/dymosim*
+modelica/buildlog.txt
+modelica/*.c
+modelica/*.h
+modelica/*.obj
+modelica/*.exe
+modelica/*.lib
+modelica/*.dll
+modelica/*.exp
+modelica/TEGUnit/
+# Dymola FMU (licence-bound) and simulation results; rebuild with export_fmu.bat
+modelica/*.fmu
+modelica/*.mat
+modelica/TEGDehydration/*
+!modelica/TEGDehydration/package.mo
+modelica/~FMUOutput/

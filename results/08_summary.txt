@@ -1,0 +1,5 @@
+Initial steady state: T_reb 198.7 C, lean 99.13 wt%, dry gas 50 mg/Sm3, boil-up 60.6 kg/h
+after -15 kW duty             : dry    66 mg/Sm3, T_reb 187.4 C, lean 98.88 wt%, surge 50.2 %
+after -0.15 kg/s circulation  : dry    51 mg/Sm3, T_reb 203.1 C, lean 99.20 wt%, surge 53.4 %
+after +0.3 MSm3/d gas         : dry    64 mg/Sm3, T_reb 194.4 C, lean 99.05 wt%, surge 53.5 %
+after +5 K gas temperature    : dry   116 mg/Sm3, T_reb 181.1 C, lean 98.70 wt%, surge 53.8 %

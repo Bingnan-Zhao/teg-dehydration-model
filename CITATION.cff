@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+title: "TEG Gas Dehydration: an Open, Validated Process Model and Dynamic FMU"
+type: software
+authors:
+  - family-names: "FamilyName"
+    given-names: "GivenName"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-10-30"
+license: MIT
+keywords:
+  - process simulation
+  - gas dehydration
+  - triethylene glycol
+  - DWSIM
+  - Modelica
+  - FMU
+  - thermodynamics
+abstract: >-
+  Open-source model of a triethylene glycol (TEG) dehydration unit for a coal-seam gas stream:
+  a steady-state DWSIM model with Peng-Robinson parameters calibrated to public data, a design
+  sensitivity study, and a reduced-order dynamic Modelica model exported as an FMI 2.0 FMU for
+  control studies.

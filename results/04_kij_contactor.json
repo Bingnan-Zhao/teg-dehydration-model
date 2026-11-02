@@ -1,0 +1,6 @@
+{
+  "kij_teg_water_contactor": -0.2646,
+  "package": "Peng-Robinson",
+  "fitted_to": "Equilibrium water dew points over TEG, 10-60 C, 90-99.9 wt% (Bahadori & Vuthaluru 2009, Table 2 and example)",
+  "rms_dew_K": 1.35
+}

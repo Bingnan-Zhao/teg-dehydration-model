@@ -1,0 +1,6 @@
+{
+  "kij_teg_water": -0.146,
+  "package": "Peng-Robinson",
+  "fitted_to": "Water + TEG bubble temperatures at 85 kPa, x_water <= 0.41, J. Chem. Eng. Data 2009, 54, 876 (doi:10.1021/je800675u), via NIST ThermoML",
+  "rms_T_K": 10.11
+}

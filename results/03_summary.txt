@@ -1,0 +1,5 @@
+Tuned Peng-Robinson TEG-water kij = -0.146 (DWSIM default 0)
+Bubble T error, TEG-rich points: default 38.5 K RMS, tuned 10.1 K RMS
+Bubble T error, all points: tuned 9.5 K RMS
+Gas in equilibrium with 99 wt% TEG at 45 C, 7000 kPa: default 930 mg/Sm3, tuned 225 mg/Sm3 (spec 112)
+Note: fitted at 98-148 C; contactor (40-45 C) is an extrapolation, to be checked against equilibrium dew point data (Bahadori & Vuthaluru 2009).

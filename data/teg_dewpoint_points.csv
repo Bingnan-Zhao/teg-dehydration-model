@@ -1,0 +1,13 @@
+# Equilibrium water dew point of natural gas over TEG solutions (metastable liquid water basis).
+# Values as reported in Bahadori & Vuthaluru, J. Nat. Gas Sci. Eng. 1 (2009) 68-71,
+# doi:10.1016/j.jngse.2009.08.001: Table 2 ("reported data", from the GPSA Engineering Data Book 2004,
+# Parrish et al. 1986, Herskowitz & Gottlieb 1984) and the worked example at 38 C (correlation values).
+teg_wt_pct,T_contactor_K,T_dew_K,source
+90,283.15,267.15,Table 2 reported
+95,303.15,278.15,Table 2 reported
+97,318.15,284.65,Table 2 reported
+98,333.15,290.65,Table 2 reported
+99,283.15,243.15,Table 2 reported
+99.9,303.15,232.65,Table 2 reported
+98,311.15,272.4,Example (correlation)
+99,311.15,264.2,Example (correlation)
