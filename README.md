@@ -1,5 +1,7 @@
 # TEG Gas Dehydration: an Open, Validated Process Model and Dynamic FMU
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23874676.svg)](https://doi.org/10.5281/zenodo.23874676)
+
 An open-source model of a triethylene glycol (TEG) dehydration unit for a Queensland coal-seam gas
 stream, built with [DWSIM](https://dwsim.org), Python and Modelica. It has two layers:
 
@@ -142,6 +144,11 @@ On first run, `dwsim_setup.py` copies the .NET runtime bundled with DWSIM into `
 - Simulator: DWSIM 10.2.12 Open-Source Core Edition (GPL-3), Daniel Medeiros and contributors.
 - Dynamic model: Modelica Standard Library 4.0; FMU export with Dymola 2023; FMU runs with
   [FMPy](https://github.com/CATIA-Systems/FMPy).
+
+## How to cite
+
+If you use this model, please cite it via Zenodo: https://doi.org/10.5281/zenodo.23874676
+(citation details are also in `CITATION.cff`; GitHub shows them under "Cite this repository").
 
 ## License
 

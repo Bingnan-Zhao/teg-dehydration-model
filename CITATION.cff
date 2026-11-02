@@ -3,10 +3,11 @@ message: "If you use this model, please cite it as below."
 title: "TEG Gas Dehydration: an Open, Validated Process Model and Dynamic FMU"
 type: software
 authors:
-  - family-names: "FamilyName"
-    given-names: "GivenName"
+  - family-names: "Zhao"
+    given-names: "Bingnan"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: "1.0.0"
+doi: "10.5281/zenodo.23874676"
 date-released: "2026-10-30"
 license: MIT
 keywords:
